@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-05",
+  "quoteId": "fade-079",
+  "imageId": "fade-079",
+  "files": {
+    "images": {
+      "ko": [
+        "ko-1.png",
+        "ko-2.png",
+        "ko-3.png"
+      ],
+      "en": [
+        "en-1.png",
+        "en-2.png",
+        "en-3.png"
+      ],
+      "es": [
+        "es-1.png",
+        "es-2.png",
+        "es-3.png"
+      ]
+    },
+    "video": "video.mp4",
+    "videos": {
+      "en": "video-en.mp4"
+    }
+  },
+  "posted": {
+    "instagram_feed": {},
+    "instagram_reel": {},
+    "youtube_shorts": {},
+    "tiktok": {}
+  }
+}
